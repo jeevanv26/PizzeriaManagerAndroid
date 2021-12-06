@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jeeva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/jeeva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_order.xml" value="0.2708333333333333" />
         <entry key="..\:/Users/jeeva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pizza.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/jeeva/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_store_order.xml" value="0.15989583333333332" />
       </map>
     </option>
   </component>
