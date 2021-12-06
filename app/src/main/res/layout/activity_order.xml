@@ -6,4 +6,41 @@
     android:layout_height="match_parent"
     tools:context=".OrderActivity">
 
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Order"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="37dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remove Pizza"
+        tools:layout_editor_absoluteX="249dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Order"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="595dp" />
+
+    <ListView
+        android:layout_width="409dp"
+        android:layout_height="426dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Price: "
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="513dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
